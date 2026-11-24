@@ -37,7 +37,5 @@ After a run, the script saves two files in the same folder as the script. Both f
 
 After the experiment ends, the script shows a line graph of accuracy across the trials. The x-axis is the trial number, and the y-axis is the proportion of correct responses, averaged over each run of 10 trials. The dashed line marks chance (50%). A participant who is guessing would have a line that stays near the dashed line, while a participant who can see the motion would have a line above it. Close the graph window to end the script.
 
-## Notes
 
-- The output files contain participant responses. Don't upload them to a public repository.
 
